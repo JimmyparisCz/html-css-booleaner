@@ -1,3 +1,11 @@
+body {
+    margin:0;
+}
+
+main {
+    margin: 100px;
+}
+
 header {
     background-image: url(./img/pattern.png);
     background-color: cornflowerblue;
@@ -10,5 +18,16 @@ header {
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 48px;
+    text-align: left;
+}
+section{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: left;
+}
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
     text-align: left;
 }
