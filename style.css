@@ -1,5 +1,14 @@
 header {
     background-image: url(./img/pattern.png);
     background-color: cornflowerblue;
+}
+
+#header-image {
+    max-width: 50%;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
     text-align: left;
 }
