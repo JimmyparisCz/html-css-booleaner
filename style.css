@@ -31,3 +31,19 @@ ul{
     font-size: 28px;
     text-align: left;
 }
+
+th {
+    font-size: 22px;
+    color: antiquewhite;
+    text-align: left;
+    background-color:deepskyblue;
+    white-space: nowrap;
+}
+
+#first_row {
+    background-color: aqua;
+}
+
+#third_row {
+    background-color:aqua
+}
