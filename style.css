@@ -47,3 +47,27 @@ th {
 #third_row {
     background-color:aqua
 }
+
+#section_2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: left;
+}
+
+#monitor {
+    background-image: url(./img/monitor.jpg);
+    background-repeat:no-repeat;
+    width: 312px;
+    height: 208px;
+    color: white;
+    font-size: 28px;
+}
+
+#graph {
+    background-image: url(./img/graph.jpg);
+    background-repeat:no-repeat;
+    width: 312px;
+    height: 208px;
+    color: white;
+    font-size: 28px;
+}
